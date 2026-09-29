@@ -28,3 +28,30 @@
 | **GitHub Copilot** | `https://models.github.ai/inference` |  |
 | **Ollama Cloud** | `https://ollama.com/api` |  |
 | **OpenCode Zen** | `https://opencode.ai/zen/v1` |  |
+| **OpenRouter** | `https://openrouter.ai/api/v1` |  |
+| **Groq** | `https://api.groq.com/openai/v1` |  |
+| **HuggingFace** | `https://router.huggingface.co/v1` |  |
+| **Together AI** | `https://api.together.ai/v1` |  |
+| **Novita AI** | `https://api.novita.ai/openai/v1` |  |
+| **Upstage Solar** | `https://api.upstage.ai/v1` |  |
+| **Fireworks** | `https://api.fireworks.ai/inference/v1` |  |
+| **Cerebras** | `https://api.cerebras.ai/v1` |  |
+| **Cohere** | `https://api.cohere.ai/compatibility/v1` |  |
+| **Infron AI** | `https://llm.onerouter.pro/v1` |  |
+| **AI/ML API** | `https://api.aimlapi.com/v1` |  |
+| **Portkey** | `https://api.portkey.ai/v1` |  |
+| **LLM Gateway** | `https://api.llmgateway.io/v1` |  |
+| **LLM7.io** | `https://api.llm7.io/v1` |  |
+| **ModelScope** | `https://api-inference.modelscope.cn/v1` |  |
+| **Kilo Code** | `https://api.kilo.ai/api/gateway` |  |
+| **VercelAI Gateway** | `https://ai-gateway.vercel.sh/v1` |  |
+| **OVHcloud** | `https://oai.endpoints.kepler.ai.cloud.ovh.net/v1` |  |
+| **Aion Labs** | `https://api.aionlabs.ai/v1` |  |
+| **Agnes AI** | `https://apihub.agnes-ai.com/v1` |  |
+| **SambaNova** | `https://api.sambanova.ai/v1` |  |
+| **SiliconFlow** | `https://api.siliconflow.cn/v1` |  |
+| **Chutes.ai** | `https://api.chutes.ai/v1` |  |
+| **Glhf.chat** | `https://glhf.chat/api/openai/v1` |  |
+| **AI21 Labs** | `https://api.ai21.com/studio/v1` |  |
+| **Nscale** | `https://inference.api.nscale.com/v1` |  |
+| **Nebius** | `https://api.studio.nebius.com/v1` |  |
